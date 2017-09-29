@@ -12,6 +12,6 @@ public class CheatActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cheat);
 
-//        this is my first commit on the github by android studio
+//        this is my first commit on the github by android studio version 3
     }
 }
