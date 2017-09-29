@@ -22,8 +22,8 @@ public class CheatActivity extends AppCompatActivity {
 
         mAnswerTextView = (TextView)findViewById(R.id.answerTextView);
 
+//        show answer
         mShowAnswer = (Button)findViewById(R.id.showAnswerButton);
-
         mShowAnswer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
